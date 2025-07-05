@@ -72,10 +72,9 @@
       <b>Ultra-Light GenAI Chatbot using Groq</b><br>
       <i>Built with:</i> Groq API, HTML/CSS/JS<br>
       🤖 GenAI · 💬 Chat UI · ⚡ Ultra-low latency
+      <br><br>
     </td>
   </tr>
-
-  <tr><td><br><br></td></tr>
 
   <tr>
     <td align="center" style="padding: 20px;">
@@ -86,10 +85,9 @@
       <b>Smart Waste Monitoring using Face/Object Detection</b><br>
       <i>Built with:</i> Python, OpenCV<br>
       🧠 Computer Vision · 🎥 CCTV Monitoring
+      <br><br>
     </td>
   </tr>
-
-  <tr><td><br><br></td></tr>
 
   <tr>
     <td align="center" style="padding: 20px;">
@@ -100,10 +98,10 @@
       <b>Automated Waste Segregation with Deep Learning</b><br>
       <i>Built with:</i> TensorFlow, Keras<br>
       🌱 Sustainability · ⚙️ AI Automation
+      <br><br>
     </td>
   </tr>
 
-  <tr><td><br><br></td></tr>
 
   <tr>
     <td align="center" style="padding: 20px;">
@@ -114,6 +112,7 @@
       <b>Attendance Tracker to Prevent Deboarding</b><br>
       <i>Built with:</i> HTML, CSS, JavaScript<br>
       📊 Semester Summary · 📅 Planning Tool
+      <br><br>
     </td>
   </tr>
 </table>
