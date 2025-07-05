@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Chand</h1>
-<h3 align="center">AI/ML enthusiast from India focused on computer vision, face recognition, object detection, image classification, and intelligent automation. Experienced with Python and AWS for building real-world, scalable tech solutions.Passionate about innovation, continuous learning, and contributing to impactful open-source projects.</h3>
+<h3 align="center">AI/ML enthusiast from India focused on computer vision, face recognition, object detection, image classification, and intelligent automation. Experienced with Python and AWS for building real-world, scalable tech solutions.Passionate about innovation, continuous learning, and building impactful projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanrudra01" alt="amanrudra01" /></a> </p>
 
