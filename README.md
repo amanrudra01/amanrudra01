@@ -50,7 +50,8 @@
 ## 🚀 Featured Projects
 
 [![FaceSense](https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/amanrudra01/FaceSense)  
-🔐 AI-Powered Face Authentication using AWS Rekognition, Lambda, S3, DynamoDB  
+🔐 AI-Powered Face Authentication System for Colleges & Workplaces
+🛠️ Built with: AWS Rekognition, Lambda, S3, DynamoDB  
 ☁️ Cloud-native · ⚡ Real-time · 🔒 Secure
 
 ---
