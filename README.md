@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Chand</h1>
 
 <h3 align="center">
-  AI/ML enthusiast from India passionate about Computer Vision, Face Recognition, Object Detection, and Intelligent Automation.
+  AI/ML enthusiast from India with a passion for building real-world solutions across Computer Vision, Generative AI, and Cloud technologies.
   <br/>
-  Skilled in Python, AWS, and real-world problem solving through scalable tech.
+  Experienced in developing intelligent systems and deploying them using platforms like AWS, Firebase.
 </h3>
 
 ---
