@@ -47,18 +47,16 @@
 
 ---
 <h2 align="center">🚀 Featured Projects</h2>
-<div align="center" style="margin: 10px 0;">
-  <a href="https://github.com/amanrudra01/Trash-Bot">
-    <img src="https://img.shields.io/badge/TrashBot-Waste%20Monitor-44cc11?style=for-the-badge&logo=opencv&logoColor=white">
-  </a>
-</div>
+
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="100%" style="padding: 20px;">
-      <a href="https://github.com/amanrudra01/FaceSense">
-        <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-8a2be2?style=for-the-badge&logo=amazonaws&logoColor=white" />
-      </a>
+      <div align="center" style="margin: 10px 0;">
+  <a href="https://github.com/amanrudra01/Trash-Bot">
+    <img src="https://img.shields.io/badge/TrashBot-Waste%20Monitor-44cc11?style=for-the-badge&logo=opencv&logoColor=white">
+  </a>
+</div>
       <br><br>
       <b>AI-Powered Face Authentication for Colleges and Workplaces (AWS-based)</b><br>
       <i>Built with:</i> AWS Rekognition, Lambda, S3, DynamoDB<br>
