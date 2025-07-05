@@ -29,9 +29,9 @@
 
 ### 🧠 AI/ML & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Face Recognition](https://img.shields.io/badge/Face_Recognition-vision-blueviolet?style=for-the-badge)
-![Object Detection](https://img.shields.io/badge/Object_Detection-AI-blue?style=for-the-badge)
-![Image Classification](https://img.shields.io/badge/Image_Classification-ML-green?style=for-the-badge)
+![Face Recognition](https://img.shields.io/badge/Face-Recognition-blueviolet?style=for-the-badge)
+![Object Detection](https://img.shields.io/badge/Object-Detection-blue?style=for-the-badge)
+![Image Classification](https://img.shields.io/badge/Image-Classification-green?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -53,6 +53,15 @@
 - 🚗 [EcoSplit](https://github.com/amanrudra01/EcoSplit): Automated Waste Segregation  
 - 📊 [Anti-Deboard-System](https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker): A simple web tool to display semester attendance and calculate required classes to maintain 75% attendance.
 
+---
+
+## 🧾 Patent Publication
+
+- **Title:** **TrashBot**-*A SMART WASTE MANAGEMENT SYSTEM AND METHOD THEREOF*  
+  **Application Number:** 202411030238
+  **Publication Date:** May 10, 2024  
+  **Status:** Published  
+  **Link:** [View Patent Journal]([https://ipindiaservices.gov.in/PublicSearch/](https://drive.google.com/file/d/1f_R7YN0v-C1dLkwESPZAKpj--YbVe8n8/view?usp=drive_link))
 
 ---
 
@@ -67,7 +76,14 @@
 </p>
 
 ---
+## ☕ Buy Me a Coffee
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/amanrudra" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-donate-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+---
 ## 💡 Motto
 
-> “Build things that matter, even if they start small.” – Mitra
+> “Build things that matter, even if they start small.” – Aman Chand
