@@ -43,14 +43,16 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanrudra01&show_icons=true&theme=github_dark" width="48%" />
   <img src="https://streak-stats.demolab.com?user=amanrudra01&theme=github-dark&hide_border=false" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrudra01&layout=compact&theme=github_dark" width="40%" />
 </p>
+
 
 ---
 
