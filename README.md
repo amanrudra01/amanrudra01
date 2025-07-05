@@ -49,12 +49,12 @@
 
 ## 🚀 Featured Projects
 
-###[![FaceSense](https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/amanrudra01/FaceSense)  
+### [![FaceSense](https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/amanrudra01/FaceSense)  
  **AI-Powered Face Authentication** using AWS Rekognition, Lambda, S3, DynamoDB  
  🔐 Secure | ☁️ Cloud-native | ⚡ Real-time
 
 
-###[![GroqIt](https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white)](https://github.com/amanrudra01/GroqIt)  
+### [![GroqIt](https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white)](https://github.com/amanrudra01/GroqIt)  
  Lightweight **Generative AI Chatbot** built on Groq's LPU inference engine  
  💬 Conversational | 🧠 GenAI | ⚡ Ultra-fast  
 
