@@ -47,56 +47,65 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-
-<table>
+<table style="width:100%;">
   <tr>
     <td>
       <a href="https://github.com/amanrudra01/FaceSense">
         <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white" />
       </a><br/>
       <strong>AI-Powered Face Authentication for Colleges and Workplaces</strong><br/>
-      <em>Build with:</em> ☁️ Cloud-native · ⚡ Real-time · 🔒 Secure
+      <em>Built with:</em> AWS Rekognition, Lambda, S3, DynamoDB<br/>
+      ☁️ Cloud-native · ⚡ Real-time · 🔒 Secure
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/amanrudra01/GroqIt">
         <img src="https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white" />
       </a><br/>
       <strong>Fast, Lightweight Chatbot powered by Groq’s LPU</strong><br/>
-      <em>Build with:</em> 🤖 GenAI · ⚡ Ultra-low latency · 🌐 Web-based
+      <em>Built with:</em> Groq API, HTML/CSS/JS<br/>
+      🤖 GenAI · ⚡ Ultra-low latency · 💬 Web-based
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/amanrudra01/Trash-Bot">
         <img src="https://img.shields.io/badge/TrashBot-Waste%20Monitor-green?style=for-the-badge&logo=opencv&logoColor=white" />
       </a><br/>
       <strong>Waste Monitoring System using Face & Object Detection</strong><br/>
-      <em>Build with:</em> 🧠 Computer Vision · ⚡ Real-time · 🗑️ Smart Waste
+      <em>Built with:</em> Python, OpenCV, Custom Face/Object Trackers<br/>
+      🧠 Computer Vision · 🗑️ Smart Waste · 📹 CCTV-based
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/amanrudra01/EcoSplit">
-        <img src="https://img.shields.io/badge/EcoSplit-Auto%20Waste%20Segregator-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/EcoSplit-Waste%20Segregator-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
       </a><br/>
-      <strong>Deep Learning–Based Automated Waste Classification</strong><br/>
-      <em>Build with:</em> 🧠 AI/ML · 🧪 TensorFlow · 🌱 Sustainability
+      <strong>AI-based Automated Waste Classification and Segregation</strong><br/>
+      <em>Built with:</em> TensorFlow, Keras, Image Classification<br/>
+      🧠 Deep Learning · 🌱 Sustainability · ⚙️ Smart Automation
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker">
         <img src="https://img.shields.io/badge/Anti--Deboard--System-Attendance%20Tracker-blue?style=for-the-badge&logo=javascript&logoColor=white" />
       </a><br/>
-      <strong>Attendance Tracker to Avoid Deboarding with Smart Insights</strong><br/>
-      <em>Build with:</em> 📊 Web App · 📅 Semester-wise Insights · 💡 Easy-to-Use
+      <strong>Semester Attendance Tracker with Insights to Avoid Deboarding</strong><br/>
+      <em>Built with:</em> HTML, CSS, JavaScript<br/>
+      📊 Web App · 📅 Smart Insights · 🎓 Student-Friendly
     </td>
   </tr>
 </table>
+
 
 ---
 
