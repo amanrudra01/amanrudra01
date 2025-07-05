@@ -1,80 +1,60 @@
 <h1 align="center">Hi 👋, I'm Aman Chand</h1>
-<h3 align="center">AI/ML enthusiast from India focused on computer vision, face recognition, object detection, image classification, and intelligent automation. Experienced with Python and AWS for building real-world, scalable tech solutions. Passionate about innovation, continuous learning, and building impactful projects.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanrudra01&label=Profile%20views&color=0e75b6&style=flat" alt="amanrudra01" />
+  <em>AI/ML Enthusiast • Computer Vision Developer • AWS Practitioner</em><br/>
+  <strong>Solving real-world problems using intelligent automation and scalable systems</strong>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📫 Contact Me
 
-- 🔍 **[FaceSense](https://github.com/amanrudra01/facesense)** – AWS-based real-time face recognition and attendance system.
-- 🗑️ **[TrashBot](https://github.com/amanrudra01/trashbot)** – CCTV-based waste monitoring using object detection and hand tracking.
-- 🚗 **[SpeedSense](https://github.com/amanrudra01/speedsense)** – Detects overspeeding vehicles and logs license plates using computer vision.
-- 📊 **[Anti Deboard System](https://github.com/amanrudra01/anti-deboard)** – A web tool for monitoring student attendance and eligibility.
-
----
-
-📌 _"Turning vision into reality with AI, code, and curiosity."_
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanchand8726@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanchand01)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amanrudra01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/amanchand8726/)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ujXVo6xdaPFdk4lZW8tgoFmiHbvzFH7J/view?usp=drive_link)
 
 ---
 
-## 📫 How to reach me
-**amanchand8726@gmail.com**
+## 🔭 Projects
 
-📄 [Know about my experiences](https://drive.google.com/file/d/1ujXVo6xdaPFdk4lZW8tgoFmiHbvzFH7J/view?usp=drive_link)
-
----
-
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/amanchand01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanchand01" height="30" width="40" /></a>
-<a href="https://instagram.com/amanrudra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanrudra01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amanchand8726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanchand8726" height="30" width="40" /></a>
-</p>
+- 🔒 [FaceSense](https://github.com/amanrudra01/facesense) – AWS-based real-time face recognition attendance system  
+- 🗑️ [TrashBot](https://github.com/amanrudra01/trashbot) – Waste detection and bin monitoring via CCTV  
+- 🚗 [SpeedSense](https://github.com/amanrudra01/speedsense) – Overspeeding detection and number plate logging  
+- 📊 [Anti-Deboard](https://github.com/amanrudra01/anti-deboard) – Web tool for attendance tracking and deboard prediction  
 
 ---
 
-## 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-</p>
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanrudra01&theme=tokyonight&row=1&column=6"/>
-  </a>
-</p>
+## 📈 GitHub Stats
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanrudra01&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanrudra01&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrudra01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanrudra01&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=amanrudra01&theme=github-dark&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrudra01&layout=compact&theme=github_dark" width="40%" />
 </p>
 
 ---
 
-## ☕ Support
-<p>
-  <a href="https://www.buymeacoffee.com/amanchand">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
+## 💡 Motto
+
+> "Build things that matter, even if they start small." – Mitra
+
