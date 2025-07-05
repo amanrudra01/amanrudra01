@@ -50,26 +50,26 @@
 ## 🚀 Featured Projects
 
 [![FaceSense](https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/amanrudra01/FaceSense)  
-> **AI-Powered Face Authentication** using AWS Rekognition, Lambda, S3, DynamoDB  
-> 🔐 Secure | ☁️ Cloud-native | ⚡ Real-time
+ **AI-Powered Face Authentication** using AWS Rekognition, Lambda, S3, DynamoDB  
+ 🔐 Secure | ☁️ Cloud-native | ⚡ Real-time
 
----
+
 
 [![GroqIt](https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white)](https://github.com/amanrudra01/GroqIt)  
-> Lightweight **Generative AI Chatbot** built on Groq's LPU inference engine  
-> 💬 Conversational | 🧠 GenAI | ⚡ Ultra-fast  
+ Lightweight **Generative AI Chatbot** built on Groq's LPU inference engine  
+ 💬 Conversational | 🧠 GenAI | ⚡ Ultra-fast  
 
----
+
 
 [![TrashBot](https://img.shields.io/badge/TrashBot-Waste%20Monitoring-green?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/amanrudra01/Trash-Bot)  
-> Smart Waste Monitoring with **Face Recognition** and **Object Detection**  
-> 👁️ Real-time Detection | 🚮 Intelligent Tracking | 🎯 Edge Automation  
+ Smart Waste Monitoring with **Face Recognition** and **Object Detection**  
+ 👁️ Real-time Detection | 🚮 Intelligent Tracking | 🎯 Edge Automation  
 
 ---
 
 [![EcoSplit](https://img.shields.io/badge/EcoSplit-Waste%20Segregation-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/amanrudra01/EcoSplit)  
-> Automated Waste Sorting using **TensorFlow**, **OpenCV**, and **Raspberry Pi**  
-> ♻️ Edge AI | 🧠 CV Classification | 🤖 Low-power Inference  
+ Automated Waste Sorting using **TensorFlow**, **OpenCV**, and **Raspberry Pi**  
+ ♻️ Edge AI | 🧠 CV Classification | 🤖 Low-power Inference  
 
 ---
 
