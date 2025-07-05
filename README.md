@@ -52,6 +52,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="100%" style="padding: 20px;">
+      <br><br>
       <a href="https://github.com/amanrudra01/FaceSense">
         <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-8a2be2?style=for-the-badge&logo=amazonaws&logoColor=white" />
       </a>
