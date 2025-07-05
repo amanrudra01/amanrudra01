@@ -49,25 +49,33 @@
 
 ## 🚀 Featured Projects
 
-- 🔒 **[FaceSense](https://github.com/amanrudra01/FaceSense)**  
-  _AI-powered face authentication system for secure check-ins at colleges/workplaces_  
-  🛠️ `AWS Rekognition` · `Lambda` · `S3` · `DynamoDB` · `Python`
+[![FaceSense](https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/amanrudra01/FaceSense)  
+> **AI-Powered Face Authentication** using AWS Rekognition, Lambda, S3, DynamoDB  
+> 🔐 Secure | ☁️ Cloud-native | ⚡ Real-time
 
-- 🤖 **[GroqIt](https://github.com/amanrudra01/GroqIt)**  
-  _A fast and lightweight GenAI chatbot using Groq’s LPU inference engine_  
-  🛠️ `Groq` · `Python` · `HTML/CSS`
+---
 
-- 🗑️ **[TrashBot](https://github.com/amanrudra01/Trash-Bot)**  
-  _Smart waste monitoring system using face recognition and motion detection_  
-  🛠️ `OpenCV` · `YOLO` · `Python`
+[![GroqIt](https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white)](https://github.com/amanrudra01/GroqIt)  
+> Lightweight **Generative AI Chatbot** built on Groq's LPU inference engine  
+> 💬 Conversational | 🧠 GenAI | ⚡ Ultra-fast  
 
-- 🚗 **[EcoSplit](https://github.com/amanrudra01/EcoSplit)**  
-  _Automated waste segregation system using object detection and classification_  
-  🛠️ `Computer Vision` · `TensorFlow` · `Raspberry Pi`
+---
 
-- 📊 **[Anti-Deboard System](https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker)**  
-  _Semester-wise attendance calculator for avoiding debarment_  
-  🛠️ `JavaScript` · `HTML` · `CSS` · `Frontend Only`
+[![TrashBot](https://img.shields.io/badge/TrashBot-Waste%20Monitoring-green?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/amanrudra01/Trash-Bot)  
+> Smart Waste Monitoring with **Face Recognition** and **Object Detection**  
+> 👁️ Real-time Detection | 🚮 Intelligent Tracking | 🎯 Edge Automation  
+
+---
+
+[![EcoSplit](https://img.shields.io/badge/EcoSplit-Waste%20Segregation-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/amanrudra01/EcoSplit)  
+> Automated Waste Sorting using **TensorFlow**, **OpenCV**, and **Raspberry Pi**  
+> ♻️ Edge AI | 🧠 CV Classification | 🤖 Low-power Inference  
+
+---
+
+[![Anti-Deboard System](https://img.shields.io/badge/Anti--Deboard%20System-Attendance%20Tracker-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker)  
+> Simple yet effective tool to calculate attendance & avoid debarment  
+> 📅 Semester Insights | 📈 Attendance Calculator | 🧮 Web-based Tool  
 
 
 ---
