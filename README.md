@@ -84,8 +84,8 @@
       </a>
       <br><br>
       <b>A Smart Waste Management System using Face Recognition</b><br>
-      <i>Built with:</i> Python, OpenCV<br>
-      🧠 Computer Vision · 🎥 CCTV Monitoring
+      <i>Built with:</i> Python, OpenCV, Dlib, KNN<br>
+      🧠 Computer Vision · 🗑️ Smart Monitoring · 🎥 CCTV Integration
       <br><br>
     </td>
   </tr>
@@ -97,7 +97,7 @@
       </a>
       <br><br>
       <b>Automated Waste Segregation</b><br>
-      <i>Built with:</i> TensorFlow, Keras<br>
+      <i>Built with:</i> TensorFlow, Keras, Image Classification<br>
       🌱 Sustainability · ⚙️ AI Automation
       <br><br>
     </td>
@@ -112,7 +112,7 @@
       <br><br>
       <b>Attendance Tracker to Prevent Deboarding</b><br>
       <i>Built with:</i> HTML, CSS, JavaScript<br>
-      📊 Semester Summary · 📅 Planning Tool
+      📊 Semester Summary · 📅 Smart Insights
       <br><br>
     </td>
   </tr>
