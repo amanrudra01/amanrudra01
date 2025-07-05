@@ -78,11 +78,9 @@
 ---
 ## ☕ Buy Me a Coffee
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/amanrudra" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-donate-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/amanchand"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanchand" /></a></p><br><br>
+
 ---
 ## 💡 Motto
 
