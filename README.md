@@ -34,11 +34,11 @@
 ---
 
 ## 🔭 Projects
-
-- 🔒 [FaceSense](https://github.com/amanrudra01/facesense) – AWS-based real-time face recognition attendance system  
-- 🗑️ [TrashBot](https://github.com/amanrudra01/trashbot) – Waste detection and bin monitoring via CCTV  
-- 🚗 [SpeedSense](https://github.com/amanrudra01/speedsense) – Overspeeding detection and number plate logging  
-- 📊 [Anti-Deboard](https://github.com/amanrudra01/anti-deboard) – Web tool for attendance tracking and deboard prediction  
+- 🔒 [FaceSense](https://github.com/amanrudra01/FaceSense): AI-Powered Face Authentication for Colleges and Workplaces (AWS-based)
+- 🤖 [GroqIt](https://github.com/amanrudra01/GroqIt): A Lightweight AI chatbot using Groq
+- 🗑️ [TrashBot](https://github.com/amanrudra01/Trash-Bot): A Smart Waste Management System using Face Recognition 
+- 🚗 [EcoSplit](https://github.com/amanrudra01/EcoSplit): Automated Waste Segregation  
+- 📊 [Anti-Deboard-System](https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker): A simple web tool to display semester attendance and calculate required classes to maintain 75% attendance.
 
 
 ---
