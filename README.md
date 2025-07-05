@@ -53,7 +53,7 @@
   <tr>
     <td align="center" width="100%" style="padding: 20px;">
       <a href="https://github.com/amanrudra01/FaceSense">
-<!--         <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-8a2be2?style=for-the-badge&logo=amazonaws&logoColor=white" /> --><img src="https://img.shields.io/badge/TrashBot-Waste%20Monitor-44cc11?style=for-the-badge&logo=opencv&logoColor=white" height="40px">
+        <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-8a2be2?style=for-the-badge&logo=amazonaws&logoColor=white" />
       </a>
       <br><br>
       <b>AI-Powered Face Authentication for Colleges and Workplaces (AWS-based)</b><br>
