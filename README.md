@@ -33,12 +33,13 @@
 
 ---
 
-## 🚀 Highlight Projects
+## 🔭 Projects
 
-- 🔒 **FaceSense** – AWS-based smart face recognition attendance system  
-- 🗑️ **TrashBot** – Waste bin detection using CV + object tracking  
-- 🚗 **SpeedSense** – Real-time overspeeding + number plate monitoring  
-- 📊 **Anti-Deboard** – Dynamic student attendance analytics tool
+- 🔒 [FaceSense](https://github.com/amanrudra01/facesense) – AWS-based real-time face recognition attendance system  
+- 🗑️ [TrashBot](https://github.com/amanrudra01/trashbot) – Waste detection and bin monitoring via CCTV  
+- 🚗 [SpeedSense](https://github.com/amanrudra01/speedsense) – Overspeeding detection and number plate logging  
+- 📊 [Anti-Deboard](https://github.com/amanrudra01/anti-deboard) – Web tool for attendance tracking and deboard prediction  
+
 
 ---
 
