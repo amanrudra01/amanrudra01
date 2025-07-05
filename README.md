@@ -49,64 +49,63 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center" style="width: 100%;">
-  <table style="width: 100%; table-layout: fixed;">
-    <tr>
-      <td style="padding: 20px; border: 1px solid #333; border-radius: 10px; vertical-align: top;">
-        <a href="https://github.com/amanrudra01/FaceSense">
-          <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white" />
-        </a><br/><br/>
-        <strong>AI-Powered Face Authentication for Colleges and Workplaces</strong><br/>
-        <em><b>Built with:</b> AWS Rekognition, Lambda, S3, DynamoDB</em><br/>
-        ☁️ Cloud-native · 🔒 Secure · ⚡ Real-time
-      </td>
-    </tr>
+<table width="100%" cellspacing="20">
+  <tr>
+    <td style="border: 1px solid #444; border-radius: 10px; padding: 20px;">
+      <a href="https://github.com/amanrudra01/FaceSense">
+        <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-8a2be2?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      </a>
+      <p><strong>AI-Powered Face Authentication for Colleges and Workplaces</strong></p>
+      <p><em><b>Built with:</b> AWS Rekognition, Lambda, S3, DynamoDB</em><br>
+      ☁️ Cloud-native · 🔒 Secure · ⚡ Real-time</p>
+    </td>
+  </tr>
 
-    <tr>
-      <td style="padding: 20px; border: 1px solid #333; border-radius: 10px; vertical-align: top;">
-        <a href="https://github.com/amanrudra01/GroqIt">
-          <img src="https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white" />
-        </a><br/><br/>
-        <strong>Fast, Lightweight Chatbot powered by Groq’s LPU</strong><br/>
-        <em><b>Built with:</b> Groq API, HTML/CSS/JS</em><br/>
-        🤖 GenAI · 💬 Chat UI · ⚡ Ultra-low latency
-      </td>
-    </tr>
+  <tr>
+    <td style="border: 1px solid #444; border-radius: 10px; padding: 20px;">
+      <a href="https://github.com/amanrudra01/GroqIt">
+        <img src="https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white" />
+      </a>
+      <p><strong>Fast, Lightweight Chatbot powered by Groq’s LPU</strong></p>
+      <p><em><b>Built with:</b> Groq API, HTML/CSS/JS</em><br>
+      🤖 GenAI · 💬 Chat UI · ⚡ Ultra-low latency</p>
+    </td>
+  </tr>
 
-    <tr>
-      <td style="padding: 20px; border: 1px solid #333; border-radius: 10px; vertical-align: top;">
-        <a href="https://github.com/amanrudra01/Trash-Bot">
-          <img src="https://img.shields.io/badge/TrashBot-Waste%20Monitor-green?style=for-the-badge&logo=opencv&logoColor=white" />
-        </a><br/><br/>
-        <strong>Waste Monitoring System using Face & Object Detection</strong><br/>
-        <em><b>Built with:</b> Python, OpenCV, Custom Trackers</em><br/>
-        🧠 Computer Vision · 🗑️ Smart Monitoring · 🎥 CCTV Integration
-      </td>
-    </tr>
+  <tr>
+    <td style="border: 1px solid #444; border-radius: 10px; padding: 20px;">
+      <a href="https://github.com/amanrudra01/Trash-Bot">
+        <img src="https://img.shields.io/badge/TrashBot-Waste%20Monitor-44cc11?style=for-the-badge&logo=opencv&logoColor=white" />
+      </a>
+      <p><strong>Waste Monitoring System using Face & Object Detection</strong></p>
+      <p><em><b>Built with:</b> Python, OpenCV, Custom Trackers</em><br>
+      🧠 Computer Vision · 🗑️ Smart Monitoring · 🎥 CCTV Integration</p>
+    </td>
+  </tr>
 
-    <tr>
-      <td style="padding: 20px; border: 1px solid #333; border-radius: 10px; vertical-align: top;">
-        <a href="https://github.com/amanrudra01/EcoSplit">
-          <img src="https://img.shields.io/badge/EcoSplit-Waste%20Segregator-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        </a><br/><br/>
-        <strong>AI-based Automated Waste Classification and Segregation</strong><br/>
-        <em><b>Built with:</b> TensorFlow, Keras, Image Classification</em><br/>
-        🌱 Sustainability · ⚙️ Automation · 🧠 Deep Learning
-      </td>
-    </tr>
+  <tr>
+    <td style="border: 1px solid #444; border-radius: 10px; padding: 20px;">
+      <a href="https://github.com/amanrudra01/EcoSplit">
+        <img src="https://img.shields.io/badge/EcoSplit-Waste%20Segregator-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      </a>
+      <p><strong>AI-based Automated Waste Classification and Segregation</strong></p>
+      <p><em><b>Built with:</b> TensorFlow, Keras, Image Classification</em><br>
+      🌱 Sustainability · ⚙️ Automation · 🧠 Deep Learning</p>
+    </td>
+  </tr>
 
-    <tr>
-      <td style="padding: 20px; border: 1px solid #333; border-radius: 10px; vertical-align: top;">
-        <a href="https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker">
-          <img src="https://img.shields.io/badge/Anti--Deboard--System-Attendance%20Tracker-blue?style=for-the-badge&logo=javascript&logoColor=white" />
-        </a><br/><br/>
-        <strong>Semester Attendance Tracker to Avoid Deboarding</strong><br/>
-        <em><b>Built with:</b> HTML, CSS, JavaScript</em><br/>
-        📊 Visual Insights · 🎓 Student Tool · 📅 Attendance Prediction
-      </td>
-    </tr>
-  </table>
-</div>
+  <tr>
+    <td style="border: 1px solid #444; border-radius: 10px; padding: 20px;">
+      <a href="https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker">
+        <img src="https://img.shields.io/badge/Anti--Deboard--System-Attendance%20Tracker-1e90ff?style=for-the-badge&logo=javascript&logoColor=white" />
+      </a>
+      <p><strong>Semester Attendance Tracker to Avoid Deboarding</strong></p>
+      <p><em><b>Built with:</b> HTML, CSS, JavaScript</em><br>
+      📊 Visual Insights · 🎓 Student Tool · 📅 Attendance Prediction</p>
+    </td>
+  </tr>
+</table>
+
 
 
 
