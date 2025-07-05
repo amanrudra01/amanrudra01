@@ -62,6 +62,7 @@
   **Publication Date:** May 10, 2024  
   **Status:** Published  
   **Link:** [View Patent Journal](https://drive.google.com/file/d/1f_R7YN0v-C1dLkwESPZAKpj--YbVe8n8/view?usp=drive_link)
+[![View Patent Journal](https://img.shields.io/badge/View-Patent_Journal-blue?style=for-the-badge)](https://drive.google.com/file/d/1f_R7YN0v-C1dLkwESPZAKpj--YbVe8n8/view?usp=drive_link)
 
 ---
 
