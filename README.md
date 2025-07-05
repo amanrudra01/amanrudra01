@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Chand</h1>
-<h3 align="center">AI & Computer Vision developer from India, turning ideas into intelligent systems.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanrudra01&label=Profile%20views&color=0e75b6&style=flat" alt="amanrudra01" /> </p>
+<h3 align="center">AI/ML enthusiast from India focused on computer vision, face recognition, object detection, image classification, and intelligent automation. Experienced with Python and AWS for building real-world, scalable tech solutions.Passionate about innovation, continuous learning, and contributing to impactful open-source projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanrudra01" alt="amanrudra01" /></a> </p>
 
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrudra01&show_icons=true&locale=en&layout=compact" alt="amanrudra01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanrudra01&show_icons=true&locale=en" alt="amanrudra01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrudra01&" alt="amanrudra01" /></p>
