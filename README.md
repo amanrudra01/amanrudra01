@@ -79,10 +79,8 @@
 ---
 ## ☕ Buy Me a Coffee
 
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amanchand"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanchand" /></a></p><br><br>
 
 ---
-## 💡 Motto
 
-> “Build things that matter, even if they start small.” – Aman Chand
+> "Teaching machines to see and think — one frame at a time." – Aman Chand
