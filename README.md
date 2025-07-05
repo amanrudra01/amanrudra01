@@ -29,7 +29,7 @@
 
 ### 🧠 AI/ML & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Face Recognition](https://img.shields.io/badge/Face-Recognition-blueviolet?style=for-the-badge)
+![Face Recognition](https://img.shields.io/badge/_Face_Recognition-blueviolet?style=for-the-badge)
 ![Object Detection](https://img.shields.io/badge/Object-Detection-blue?style=for-the-badge)
 ![Image Classification](https://img.shields.io/badge/Image-Classification-green?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
