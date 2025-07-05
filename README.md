@@ -67,7 +67,9 @@
 ---
 
 ## 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanrudra01&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+</p>
 <table>
   <tr>
     <td>
