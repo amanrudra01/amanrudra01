@@ -51,7 +51,7 @@
 
 <table width="100%" style="border-spacing: 0 15px;">
   <tr>
-    <td style="padding: 15px; vertical-align: top; border: 1px solid #333; border-radius: 10px;">
+    <td style="padding: 15px; vertical-align: center; border: 1px solid #333; border-radius: 10px;">
       <a href="https://github.com/amanrudra01/FaceSense">
         <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white" />
       </a><br/><br/>
