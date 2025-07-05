@@ -61,7 +61,7 @@
   **Application Number:** 202411030238
   **Publication Date:** May 10, 2024  
   **Status:** Published  
-  **Link:** [View Patent Journal]([https://ipindiaservices.gov.in/PublicSearch/](https://drive.google.com/file/d/1f_R7YN0v-C1dLkwESPZAKpj--YbVe8n8/view?usp=drive_link))
+  **Link:** [View Patent Journal](https://drive.google.com/file/d/1f_R7YN0v-C1dLkwESPZAKpj--YbVe8n8/view?usp=drive_link)
 
 ---
 
