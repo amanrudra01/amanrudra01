@@ -51,11 +51,11 @@
 ## 🚀 Featured Projects
 
 - 🔒 **[FaceSense](https://github.com/amanrudra01/FaceSense)**  
-  _AI-powered face authentication system for secure check-ins at colleges/workplaces_  
+  _AI-powered face authentication system for secure check-ins at colleges or workplaces_  
   🛠️ `AWS Rekognition` · `Lambda` · `S3` · `DynamoDB` · `Python`
 
 - 🤖 **[GroqIt](https://github.com/amanrudra01/GroqIt)**  
-  _A fast and lightweight GenAI chatbot using Groq’s LPU inference engine_  
+  _A fast and lightweight GenAI chatbot using Groq_  
   🛠️ `Groq` · `Python` · `HTML/CSS`
 
 - 🗑️ **[TrashBot](https://github.com/amanrudra01/Trash-Bot)**  
@@ -71,83 +71,7 @@
   🛠️ `JavaScript` · `HTML` · `CSS` · `Frontend Only`
 
 ---
-<h2 align="center">🚀 Featured Projects</h2>
 
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="100%" style="padding: 20px;">
-      <a href="https://github.com/amanrudra01/FaceSense">
-        <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-8a2be2?style=for-the-badge&logo=amazonaws&logoColor=white" />
-      </a>
-      <br><br>
-      <b>AI-Powered Face Authentication for Colleges and Workplaces (AWS-based)</b><br>
-      <i>Built with:</i> AWS Rekognition, Lambda, S3, DynamoDB<br>
-      ☁️ Cloud-native · 🔒 Secure · ⚡ Real-time
-      <br><br>
-    </td>
-  </tr>
-  
-
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://github.com/amanrudra01/GroqIt">
-        <img src="https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white" />
-      </a>
-      <br><br>
-      <b>A Lightweight AI chatbot using Groq</b><br>
-      <i>Built with:</i> Groq API, HTML/CSS/JS<br>
-      🤖 GenAI · 💬 Chat UI · ⚡ Ultra-low latency
-      <br><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://github.com/amanrudra01/Trash-Bot">
-        <img src="https://img.shields.io/badge/TrashBot-Waste%20Monitor-44cc11?style=for-the-badge&logo=opencv&logoColor=white" />
-      </a>
-      <br><br>
-      <b>A Smart Waste Management System using Face Recognition</b><br>
-      <i>Built with:</i> Python, OpenCV, Dlib, KNN<br>
-      🧠 Computer Vision · 🗑️ Smart Monitoring · 🎥 CCTV Integration
-      <br><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://github.com/amanrudra01/EcoSplit">
-        <img src="https://img.shields.io/badge/EcoSplit-Waste%20Segregator-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      </a>
-      <br><br>
-      <b>Automated Waste Segregation</b><br>
-      <i>Built with:</i> TensorFlow, Keras, Image Classification<br>
-      🌱 Sustainability · ⚙️ AI Automation
-      <br><br>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker">
-        <img src="https://img.shields.io/badge/Anti--Deboard--System-Attendance%20Tracker-1e90ff?style=for-the-badge&logo=javascript&logoColor=white" />
-      </a>
-      <br><br>
-      <b>Attendance Tracker to Prevent Deboarding</b><br>
-      <i>Built with:</i> HTML, CSS, JavaScript<br>
-      📊 Semester Summary · 📅 Smart Insights
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
----
 
 ## 🧾 Patent Publication
 
