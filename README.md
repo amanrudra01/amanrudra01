@@ -58,10 +58,10 @@
       <b>AI-Powered Face Authentication</b><br>
       <i>Built with:</i> AWS Rekognition, Lambda, S3, DynamoDB<br>
       ☁️ Cloud-native · 🔒 Secure · ⚡ Real-time
+      <br><br>
     </td>
   </tr>
   
-  <tr><td><br><br></td></tr>
 
   <tr>
     <td align="center" style="padding: 20px;">
