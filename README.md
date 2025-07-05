@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-8a2be2?style=for-the-badge&logo=amazonaws&logoColor=white" />
       </a>
       <br><br>
-      <b>AI-Powered Face Authentication</b><br>
+      <b>AI-Powered Face Authentication for Colleges and Workplaces (AWS-based)</b><br>
       <i>Built with:</i> AWS Rekognition, Lambda, S3, DynamoDB<br>
       ☁️ Cloud-native · 🔒 Secure · ⚡ Real-time
       <br><br>
@@ -69,7 +69,7 @@
         <img src="https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white" />
       </a>
       <br><br>
-      <b>Ultra-Light GenAI Chatbot using Groq</b><br>
+      <b>A Lightweight AI chatbot using Groq</b><br>
       <i>Built with:</i> Groq API, HTML/CSS/JS<br>
       🤖 GenAI · 💬 Chat UI · ⚡ Ultra-low latency
       <br><br>
@@ -82,7 +82,7 @@
         <img src="https://img.shields.io/badge/TrashBot-Waste%20Monitor-44cc11?style=for-the-badge&logo=opencv&logoColor=white" />
       </a>
       <br><br>
-      <b>Smart Waste Monitoring using Face/Object Detection</b><br>
+      <b>A Smart Waste Management System using Face Recognition</b><br>
       <i>Built with:</i> Python, OpenCV<br>
       🧠 Computer Vision · 🎥 CCTV Monitoring
       <br><br>
@@ -95,7 +95,7 @@
         <img src="https://img.shields.io/badge/EcoSplit-Waste%20Segregator-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
       </a>
       <br><br>
-      <b>Automated Waste Segregation with Deep Learning</b><br>
+      <b>Automated Waste Segregation</b><br>
       <i>Built with:</i> TensorFlow, Keras<br>
       🌱 Sustainability · ⚙️ AI Automation
       <br><br>
