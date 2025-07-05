@@ -50,33 +50,30 @@
 ## 🚀 Featured Projects
 
 [![FaceSense](https://img.shields.io/badge/FaceSense-AI%20Face%20Auth-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/amanrudra01/FaceSense)  
-🔐 AI-Powered Face Authentication System for Colleges & Workplaces
+🔐 AI-Powered Face Authentication System for Colleges & Workplaces  
 🛠️ Built with: AWS Rekognition, Lambda, S3, DynamoDB  
 ☁️ Cloud-native · ⚡ Real-time · 🔒 Secure
 
----
-
 [![GroqIt](https://img.shields.io/badge/GroqIt-GenAI%20Chatbot-orange?style=for-the-badge&logo=groq&logoColor=white)](https://github.com/amanrudra01/GroqIt)  
-🧠 Lightweight Generative AI chatbot built on Groq's LPU inference engine  
-💬 Conversational · ⚡ Ultra-fast · 🤖 Edge-ready
+🤖 Lightweight Generative AI Chatbot using Groq LPU Inference Engine  
+🛠️ Built with: Groq API, HTML/CSS/JS  
+💬 Conversational · ⚡ Ultra-fast · 🧠 GenAI Ready
 
----
+[![TrashBot](https://img.shields.io/badge/TrashBot-Waste%20Monitor-green?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/amanrudra01/Trash-Bot)  
+🚮 Smart Waste Monitoring System using Face & Object Detection  
+🛠️ Built with: OpenCV, Haar Cascades, Python  
+👁️ Real-time Detection · 🧠 CV-Driven · 🗑️ Automation
 
-[![TrashBot](https://img.shields.io/badge/TrashBot-Waste%20Monitoring-green?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/amanrudra01/Trash-Bot)  
-🚮 Smart Waste Monitoring using Face Recognition and Object Detection  
-👁️ Real-time Detection · 🎯 Edge Automation · 🧠 Computer Vision
+[![EcoSplit](https://img.shields.io/badge/EcoSplit-Waste%20Segregator-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/amanrudra01/EcoSplit)  
+♻️ Automated Waste Segregation using Deep Learning  
+🛠️ Built with: TensorFlow, OpenCV, Python  
+🔄 ML-Powered · 🤖 Hardware-Ready · 🔍 Smart Sorting
 
----
+[![Anti-Deboard System](https://img.shields.io/badge/Anti--Deboard--System-Attendance%20Tracker-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker)  
+📊 Web Tool to Track Attendance and Avoid Deboarding  
+🛠️ Built with: HTML, CSS, JavaScript  
+📅 Semester Stats · 📈 Required Classes · 🧮 Easy to Use
 
-[![EcoSplit](https://img.shields.io/badge/EcoSplit-Waste%20Segregation-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/amanrudra01/EcoSplit)  
-♻️ Automated Waste Segregation using TensorFlow and OpenCV  
-🤖 Edge AI · 📦 Raspberry Pi · 🔄 Real-time Sorting
-
----
-
-[![Anti-Deboard System](https://img.shields.io/badge/Anti--Deboard%20System-Attendance%20Tracker-blue?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker)  
-📊 Web-based tool to track attendance and avoid debarment  
-📅 Semester Stats · 📈 Required Classes · 🧮 Simple & Useful
 
 
 ---
