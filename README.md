@@ -51,7 +51,7 @@
 ## 🚀 Projects
 
 - 🔒 **[FaceSense](https://github.com/amanrudra01/FaceSense)**  
-  _AI-powered face authentication system for secure check-ins at colleges or workplaces_  
+  _AI-powered face authentication system for secure check-ins at colleges or workplaces (AWS Based)_  
   🛠️ `AWS Rekognition` · `Lambda` · `S3` · `DynamoDB` · `Python`
 
 - 🤖 **[GroqIt](https://github.com/amanrudra01/GroqIt)**  
