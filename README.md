@@ -56,19 +56,24 @@
 
 - 🤖 **[GroqIt](https://github.com/amanrudra01/GroqIt)**  
   _A fast and lightweight GenAI chatbot using Groq_  
-  🛠️ `Groq` · `Python` · `HTML/CSS`
+  🛠️ `Groq` · `Python` · `FastAPI` · `HTML/CSS`
 
-- 🗑️ **[TrashBot](https://github.com/amanrudra01/Trash-Bot)**  
+- ♻️ **[TrashBot](https://github.com/amanrudra01/Trash-Bot)**  
   _Smart waste monitoring system using face recognition and motion detection_  
-  🛠️ `OpenCV` · `YOLO` · `Python`
+  🛠️ `OpenCV` · `Dlib` · `Python` · `scikit-learn`
 
-- 🚗 **[EcoSplit](https://github.com/amanrudra01/EcoSplit)**  
+- 🚮 **[EcoSplit](https://github.com/amanrudra01/EcoSplit)**  
   _Automated waste segregation system using object detection and classification_  
-  🛠️ `Computer Vision` · `TensorFlow` · `Raspberry Pi`
+  🛠️ `Computer Vision` · `TensorFlow` · `CNN`
+
+- 🔍 **[Face Recognition using Firebase](https://github.com/amanrudra01/face_recognition_using_firebase)**  
+  _Real-time face recognition system integrated with Firebase for smart identity management_  
+  🛠️ `face_recognition` · `OpenCV` · `Firebase Realtime DB` · `Python`
+
 
 - 📊 **[Anti-Deboard System](https://github.com/amanrudra01/Anti-Deboard-System-OR-Attendance-Tracker)**  
   _Semester-wise attendance calculator for avoiding debarment_  
-  🛠️ `JavaScript` · `HTML` · `CSS` · `Frontend Only`
+  🛠️ `HTML` · `CSS` · `JavaScript`
 
 ---
 
